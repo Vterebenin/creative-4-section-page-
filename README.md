@@ -9,7 +9,7 @@
 > Завершение текста
 
 
-Название файла  | Содержание файла
+Name of the file| File content
 ----------------|----------------------
 index.html      | Here you can see the HTML
 common.js       | And here you can see the JS code
