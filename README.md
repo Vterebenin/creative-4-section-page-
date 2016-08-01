@@ -1,16 +1,5 @@
-#h3 4 section page by @TERNOW
+# 4 section page by @TERNOW
 
-    dir /fonts
-    dir /images
-    dir /js
-    
-```html
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-```
-
-```php
-<?php here_pagecontent(); ?>
-```
 
 
 
