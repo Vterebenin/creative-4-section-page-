@@ -27,7 +27,7 @@ index.html      | Индексный файл для проверки вноси
 * Пункт 2
 * Пункт 3
 
-_наклонный_ _шрифт_ _наклонный__шрифт_
+_You can always use this idea for your projects. You can simple like try to invert background-color, when button-wrapper is hover or maybe you have a better idea. So, fell free and if you want to help me just share my project somewhere._
 
 
 ![screenshot of sample](http://webdesign.ru.net/img/bgphoto1.jpg)
