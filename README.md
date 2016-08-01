@@ -1,17 +1,4 @@
-h1 4 section page by @TERNOW
-=====================
-h2 заголовок второго уровня
------------------------------------
-# h3 заголовок третьего уровня
-## h4 заголовок четвёртого уровня
-### h5 заголовок пятого уровня
-#### h6 заголовок шестого уровня
-
-[Мой сайт] (http://vk.com)
-
-**Жирный шрифт**
-
-`выделенные слова`
+#h3 4 section page by @TERNOW
 
     dir /fonts
     dir /images
@@ -25,13 +12,7 @@ h2 заголовок второго уровня
 <?php here_pagecontent(); ?>
 ```
 
-```scss /* или css */
-@import "bower_components/tree-normalize/generic.normalize";
-h1 {
- font-size:1.5em;
- font-weight: 300;
-}
-```
+
 
 > Текст
 > 
