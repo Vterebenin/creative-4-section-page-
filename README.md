@@ -1,7 +1,7 @@
 # 4 section page by TERNOW // 2016
 
 
-![screenshot of sample](https://scum7ck.github.io/creative-4-section-page-/img/bg_s1.jpg)
+![screenshot of sample](/img/giphy!.gif)
 
 
 > Simple p block about this work
