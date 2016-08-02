@@ -17,4 +17,4 @@ main.min.css    | Unfortunately, you cant see the main css, but you can use your
 _You can always use this idea for your projects. You can simple like try to invert background-color, when button-wrapper is hover or maybe you have a better idea. So, fell free and if you want to help me just share my project somewhere._
 
 
-![screenshot of sample](http://webdesign.ru.net/img/giphy.gif)
+![screenshot of sample](http://webdesign.ru.net/img/giphy!.gif)
